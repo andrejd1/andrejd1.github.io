@@ -50,8 +50,8 @@
    /* About Section
    ------------------------------------------------------------------- */
    #about .profile-pic {
-      width: 114px;
-      height: 114px;
+      width: 200px;
+      height: 200px;
       margin-left: 12px;
    }
    #about .contact-details { width: 50%; }
@@ -102,7 +102,7 @@
    #nav-wrap {
       font: 12px 'opensans-bold', sans-serif;
       background: transparent !important;
-      letter-spacing: 1.5px;  
+      letter-spacing: 2px;
       width: auto;
       position: fixed;
       top: 0;
@@ -121,8 +121,7 @@
       text-shadow: none;
       color: transparent;
 
-      position: relative;
-      top: 0px;
+      top: 0;
       right: 30px;
    }
 
